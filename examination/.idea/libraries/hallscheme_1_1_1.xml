@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hallscheme-1.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/7ee72c6648f9e0615849aa07b8d56c166663a594/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7ee72c6648f9e0615849aa07b8d56c166663a594/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Nublo/hallscheme/1.1.1/b7ce36be5fd0f59541cff2ea470b85474ef04692/hallscheme-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
